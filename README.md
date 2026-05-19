@@ -27,3 +27,7 @@ This task helped me understand how CNN models work, how images are processed and
 Tools used in this task are Python, TensorFlow, Keras, NumPy, Matplotlib, and Google Colab.
 
 The output of this task is a Jupyter Notebook with complete CNN model, accuracy graphs, and digit predictions.
+
+#output
+
+<img width="1606" height="1079" alt="Image" src="https://github.com/user-attachments/assets/61aa3a4c-b7ba-4585-936e-410ed32e4d24" />
